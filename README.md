@@ -8,6 +8,8 @@ There really is a Linux, and these people are using it, but it is just a part of
 ```html
 <!DOCTYPE html>
 <html class="client-nojs" lang="en" dir="ltr">
+<html class="client-nojs" lang="en" dir="ltr">
+<html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
 ```
